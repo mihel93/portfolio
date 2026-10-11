@@ -1,0 +1,12 @@
+genre,records,median_mau_k,median_ccu_k,revenue_k_usd,median_review,median_retention
+MOBA,7994,1.0,1.0,0.0,0.81,0.444
+action-adventure,14145,1.0,1.0,0.0,0.81,0.447
+battle-royale,9023,1.0,1.0,0.0,0.81,0.447
+horror,5003,1.0,1.0,0.0,0.81,0.441
+puzzle,3968,1.0,1.0,0.0,0.82,0.448
+racing,5908,1.0,1.0,0.0,0.81,0.449
+role-playing,10925,1.0,1.0,0.0,0.81,0.443
+shooter,18048,1.0,1.0,0.0,0.81,0.447
+simulation,7995,1.0,1.0,0.0,0.81,0.446
+sports,10000,1.0,1.0,0.0,0.81,0.445
+strategy,6991,1.0,1.0,0.0,0.81,0.447
