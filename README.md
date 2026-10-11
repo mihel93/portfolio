@@ -100,10 +100,8 @@ I'm currently working on:
 
 ## 📫 Contact Me
 
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
-- **GitHub:** [github.com/yourusername]
-- **Portfolio Website:** [yourwebsite.com]
+- **Email:** m.deligrozev@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/mihail-deligrozev/
 
 ## 📄 License
 
