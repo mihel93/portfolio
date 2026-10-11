@@ -1,10 +1,10 @@
 # 📊 Data Analyst Portfolio
 
-Welcome to my data analytics portfolio! This repository showcases my skills in data analysis, statistical modeling, and data visualization through real-world projects.
+Welcome to my data analytics portfolio! This repository showcases my skills in data analysis, statistical modeling, and data visualization.
 
 ## 👨‍💻 About Me
 
-I'm a data analyst passionate about turning data into actionable insights. I specialize in exploratory data analysis, statistical testing, and creating compelling visualizations that drive business decisions.
+I'm a data analyst, I specialize in exploratory data analysis, statistical testing, and creating compelling visualizations that drive business decisions.
 
 ## 🛠️ Technical Skills
 
