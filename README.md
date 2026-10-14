@@ -11,10 +11,10 @@ In this repository, you can find an overview of the projects I have been working
 
 | Project | Question | Main tools | Notebook |
 |---|---|---|---|
-| 🎒 [World Development Indicators - school dropout rate](#-do-richer-countries-keep-more-children-in-school) | Do Richer Countries Keep More Children in School? | Python, pandas, SciPy | [Kaggle](https://www.kaggle.com/code/mihaildeligrozev/wdi-drop-out-of-school-rates) |
-| 🏠 [Hague Energy Labels](#-dutch-housing-market-price-trends) | Do Richer Neighbourhoods Live in Greener Homes? | Python, CBS StatLine API, geopandas | [Kaggle](https://www.kaggle.com/code/mihaildeligrozev/hague-energy-labels) |
-| 👥 [IBM HR attrition](#-ibm-hr-analytics-employee-attrition) | IBM HR Analytics: Employee Attrition Prevention Strategy| Python, SciPy, scikit-learn | [Kaggle](https://www.kaggle.com/code/mihaildeligrozev/ibm-hr) |
-| 🎮 [Steam game success](#-what-makes-a-steam-game-successful) | What makes a Steam game successful? | Python, SQL (DuckDB), scikit-learn | [Kaggle](https://www.kaggle.com/code/mihaildeligrozev/steam-game-success) |
+| 🎒 [World Development Indicators - school dropout rate](https://github.com/mihel93/portfolio/blob/main/school%20dropouts/world_bank_school_dropout_analysis.ipynb) | Do Richer Countries Keep More Children in School? | Python, pandas, SciPy | [Kaggle](https://www.kaggle.com/code/mihaildeligrozev/wdi-drop-out-of-school-rates) |
+| 🏠 [Hague Energy Labels](https://github.com/mihel93/portfolio/blob/main/energy%20label%20the%20hague/the_hague_income_energy_labels.ipynb)| Do Richer Neighbourhoods Live in Greener Homes? | Python, CBS StatLine API, geopandas | [Kaggle](https://www.kaggle.com/code/mihaildeligrozev/hague-energy-labels) |
+| 👥 [IBM HR attrition](https://github.com/mihel93/portfolio/blob/main/ibm%20hr/ibm_hr_attrition.ipynb) | IBM HR Analytics: Employee Attrition Prevention Strategy| Python, SciPy, scikit-learn | [Kaggle](https://www.kaggle.com/code/mihaildeligrozev/ibm-hr) |
+| 🎮 [Steam game success](https://github.com/mihel93/portfolio/blob/main/school%20dropouts/world_bank_school_dropout_analysis.ipynb) | What makes a Steam game successful? | Python, SQL (DuckDB), scikit-learn | [Kaggle](https://www.kaggle.com/code/mihaildeligrozev/steam-game-success) |
 
 ---
 
