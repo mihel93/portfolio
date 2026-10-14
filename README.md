@@ -11,11 +11,10 @@ In this repository, you can find an overview of the projects I have been working
 
 | Project | Question | Main tools | Notebook |
 |---|---|---|---|
-| 🎒 [World Development Indicators - school dropout rate](#-do-richer-countries-keep-more-children-in-school) | Do Richer Countries Keep More Children in School? | Python, pandas, SciPy | [https://www.kaggle.com/code/mihaildeligrozev/wdi-drop-out-of-school-rates] |
-| 🏠 [Hague Energy Labels](#-dutch-housing-market-price-trends) | Do Richer Neighbourhoods Live in Greener Homes? | Python, CBS StatLine API, geopandas | [(https://www.kaggle.com/code/mihaildeligrozev/hague-energy-labels)] |
+| 🎒 [World Development Indicators - school dropout rate](#-do-richer-countries-keep-more-children-in-school) | Do Richer Countries Keep More Children in School? | Python, pandas, SciPy | [Kaggle](https://www.kaggle.com/code/mihaildeligrozev/wdi-drop-out-of-school-rates) |
+| 🏠 [Hague Energy Labels](#-dutch-housing-market-price-trends) | Do Richer Neighbourhoods Live in Greener Homes? | Python, CBS StatLine API, geopandas | [Kaggle](https://www.kaggle.com/code/mihaildeligrozev/hague-energy-labels) |
 | 👥 [IBM HR attrition](#-ibm-hr-analytics-employee-attrition) | IBM HR Analytics: Employee Attrition Prevention Strategy| Python, SciPy, scikit-learn | [Kaggle](https://www.kaggle.com/code/mihaildeligrozev/ibm-hr) |
-| 🎮 [Steam game success](#-what-makes-a-steam-game-successful) | What makes a game successful, and can it be predicted at launch? | Python, SQL (DuckDB), scikit-learn | [Kaggle](https://www.kaggle.com/code/mihaildeligrozev/steam-game-success) |
-
+| 🎮 [Steam game success](#-what-makes-a-steam-game-successful) | What makes a Steam game successful? | Python, SQL (DuckDB), scikit-learn | [Kaggle](https://www.kaggle.com/code/mihaildeligrozev/steam-game-success) |
 
 ---
 
@@ -33,4 +32,4 @@ In this repository, you can find an overview of the projects I have been working
 ---
 
 
-📫 **Contact:** *[https://www.linkedin.com/in/mihail-deligrozev/], m.deligrozev@gmail.com*
+📫 **Contact:** *[linkedin](https://www.linkedin.com/in/mihail-deligrozev/), m.deligrozev@gmail.com*
